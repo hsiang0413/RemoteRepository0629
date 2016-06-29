@@ -9,6 +9,7 @@
 </head>
 <body>
 
+
 <h3>Home Hello</h3>
 <h3><a href="<c:url value="/servlet1" />">Servlet1</a></h3>
 </body>
