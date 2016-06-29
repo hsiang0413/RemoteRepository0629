@@ -15,12 +15,12 @@ public class Servlet1 extends HttpServlet {
 	@Override
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
+
 		
 
 		System.out.println("Servlet1  Servlet2");
 		System.out.println(" Hello Servlet1");
 		System.out.println(" Hello Servlet1");
-
 
 
 		HttpSession session = request.getSession();
