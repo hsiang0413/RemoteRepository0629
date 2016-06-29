@@ -17,9 +17,10 @@ public class Servlet1 extends HttpServlet {
 
 	
 		System.out.println("Servlet1  Servlet2");
-
-
-
+		System.out.println("Servlet1  Servlet2");
+		System.out.println("Servlet1  Servlet2");
+		System.out.println("Servlet1  Servlet2");
+		
 		HttpSession session = request.getSession();
 		session.setAttribute("time", ""+sDateFormat.format(new Date()));
 		
