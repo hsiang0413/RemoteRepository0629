@@ -8,7 +8,6 @@
 <title>Home</title>
 </head>
 <body>
-<<<<<<< HEAD
 
 <!-- Commit2 -->
 <!-- Commit3 -->
