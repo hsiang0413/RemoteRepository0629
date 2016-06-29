@@ -5,15 +5,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Success</title>
+<title>Success Success</title>
 </head>
 <body>
 
 
 <h3>Success ${time} !</h3>
 
-<h3>Success ${time}</h3>
-<h3>Success ${time} !</h3>
 
 <h3><a href="<c:url value="/index.jsp" />">Home</a></h3>
 
