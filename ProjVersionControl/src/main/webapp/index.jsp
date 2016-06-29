@@ -5,11 +5,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 <title>Home</title>
 </head>
 <body>
-
-
 <h3>Home</h3>
 <h4>hello</h4>
 <h4>hello</h4>
