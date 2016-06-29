@@ -5,11 +5,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 <title>Home</title>
 </head>
 <body>
 
 <h3>Home</h3>
+
 <h3><a href="<c:url value="/servlet1" />">Servlet1</a></h3>
 </body>
 </html>
